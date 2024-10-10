@@ -1,0 +1,21 @@
+body{
+background-color: black
+color(srgb red green blue)
+font-family: "Roboto", sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0px;
+}
+button{ 
+background-color: blueviolet;
+ color: bisque;
+ font-family: "Roboto", sans-serif;
+    
+}
+
+
+
+
+
